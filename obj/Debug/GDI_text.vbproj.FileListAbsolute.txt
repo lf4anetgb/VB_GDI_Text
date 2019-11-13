@@ -1,0 +1,20 @@
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\bin\Debug\GDI_text.exe
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\bin\Debug\GDI_text.pdb
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\bin\Debug\GDI_text.xml
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.vbprojAssemblyReference.cache
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.Form1.resources
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.Resources.resources
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.vbproj.GenerateResource.cache
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.exe
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.xml
+E:\OneDrive_4a012130\OneDrive - stust.edu.tw\文件\Visual Studio 2019\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.pdb
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\bin\Debug\GDI_text.exe
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\bin\Debug\GDI_text.pdb
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\bin\Debug\GDI_text.xml
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.vbprojAssemblyReference.cache
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.Form1.resources
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.Resources.resources
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.vbproj.GenerateResource.cache
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.exe
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.xml
+F:\lf4an\文件\練習專案\步進馬達介面\GDI_text\obj\Debug\GDI_text.pdb
